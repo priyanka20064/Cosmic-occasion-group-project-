@@ -1,4 +1,4 @@
-🌌 Cosmic Occasions – User & Event Manager
+🌌 <h1>Cosmic Occasions – User & Event Manager</h1>
 A Linux-based shell script that helps manage system users along with their event bookings through a simple whiptail-based interactive UI.
 📁 Project Type: Linux Shell Scripting
 🎓 Submitted for: Project Evaluation
